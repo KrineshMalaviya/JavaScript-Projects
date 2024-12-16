@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin : 10px;
+}
+#grey{
+    background-color: gray;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#black{
+    background-color: black;
+}
+
+.button:hover{
+    cursor: pointer;
+}
