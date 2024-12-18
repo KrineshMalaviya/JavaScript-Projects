@@ -1,6 +1,9 @@
 # JavaScript-Projects
 Beginner-Friendly JavaScript Project
 
+#After Some Day this all projects are live 
+#you can copy code and run it for now time
+
 
 # 1. Background Color Changer
 Overview
